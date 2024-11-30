@@ -1,0 +1,20 @@
+{
+  "name": "aggus19/resergo-landing",
+  "autoload": {
+    "psr-4": {
+      "App\\": "classes/"
+    }
+  },
+  "authors": [
+    {
+      "name": "aggus19",
+      "email": "hola@resergo.uy"
+    }
+  ],
+  "require": {
+    "vlucas/phpdotenv": "^5.6",
+    "twilio/sdk": "^8.3",
+    "phpmailer/phpmailer": "^6.9",
+    "mercadopago/dx-php": "3.0.8"
+  }
+}

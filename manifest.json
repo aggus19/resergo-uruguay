@@ -1,0 +1,51 @@
+{
+  "name": "ReserGo Uruguay",
+  "short_name": "ReserGo",
+  "description": "ReserGo es el software líder en gestión de barberías en Uruguay. Simplifica reservas, administra clientes y optimiza la gestión de tu barbería.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090524",
+  "theme_color": "#8936FF",
+  "lang": "es-UY",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "assets/media/resergo/16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/media/resergo/32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/media/resergo/48x48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/media/resergo/192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/media/resergo/512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/media/resergo/512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity", "utilities"],
+  "related_applications": [],
+  "prefer_related_applications": false
+}
